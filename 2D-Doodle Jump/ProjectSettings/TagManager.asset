@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemy
+  - Footplate
+  - CameraTop
+  - CameraBottom
+  - Foot
+  - hole
+  - DisappearFootPlate
+  - Body
+  - UI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BackGround
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: back
+    uniqueID: 2675149959
+    locked: 0
+  - name: middle
+    uniqueID: 2533485501
+    locked: 0
+  - name: front
+    uniqueID: 1501746109
+    locked: 0

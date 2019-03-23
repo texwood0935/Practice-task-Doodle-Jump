@@ -1,0 +1,4426 @@
+fileFormatVersion: 2
+guid: ba8c2da1e77b75c4dbccefbe7c0fb789
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Doodle Jump- game-\u74E6\u7247_0"
+    21300002: "Doodle Jump- game-\u74E6\u7247_1"
+    21300004: "Doodle Jump- game-\u74E6\u7247_2"
+    21300006: "Doodle Jump- game-\u74E6\u7247_3"
+    21300008: "Doodle Jump- game-\u74E6\u7247_4"
+    21300010: "Doodle Jump- game-\u74E6\u7247_5"
+    21300012: "Doodle Jump- game-\u74E6\u7247_6"
+    21300014: "Doodle Jump- game-\u74E6\u7247_7"
+    21300016: "Doodle Jump- game-\u74E6\u7247_8"
+    21300018: "Doodle Jump- game-\u74E6\u7247_9"
+    21300020: "Doodle Jump- game-\u74E6\u7247_10"
+    21300022: "Doodle Jump- game-\u74E6\u7247_11"
+    21300024: "Doodle Jump- game-\u74E6\u7247_12"
+    21300026: "Doodle Jump- game-\u74E6\u7247_13"
+    21300028: "Doodle Jump- game-\u74E6\u7247_14"
+    21300030: "Doodle Jump- game-\u74E6\u7247_15"
+    21300032: "Doodle Jump- game-\u74E6\u7247_16"
+    21300034: "Doodle Jump- game-\u74E6\u7247_17"
+    21300036: "Doodle Jump- game-\u74E6\u7247_18"
+    21300038: "Doodle Jump- game-\u74E6\u7247_19"
+    21300040: "Doodle Jump- game-\u74E6\u7247_20"
+    21300042: "Doodle Jump- game-\u74E6\u7247_21"
+    21300044: "Doodle Jump- game-\u74E6\u7247_22"
+    21300046: "Doodle Jump- game-\u74E6\u7247_23"
+    21300048: "Doodle Jump- game-\u74E6\u7247_24"
+    21300050: "Doodle Jump- game-\u74E6\u7247_25"
+    21300052: "Doodle Jump- game-\u74E6\u7247_26"
+    21300054: "Doodle Jump- game-\u74E6\u7247_27"
+    21300056: "Doodle Jump- game-\u74E6\u7247_28"
+    21300058: "Doodle Jump- game-\u74E6\u7247_29"
+    21300060: "Doodle Jump- game-\u74E6\u7247_30"
+    21300062: "Doodle Jump- game-\u74E6\u7247_31"
+    21300064: "Doodle Jump- game-\u74E6\u7247_32"
+    21300066: "Doodle Jump- game-\u74E6\u7247_33"
+    21300068: "Doodle Jump- game-\u74E6\u7247_34"
+    21300070: "Doodle Jump- game-\u74E6\u7247_35"
+    21300072: "Doodle Jump- game-\u74E6\u7247_36"
+    21300074: "Doodle Jump- game-\u74E6\u7247_37"
+    21300076: "Doodle Jump- game-\u74E6\u7247_38"
+    21300078: "Doodle Jump- game-\u74E6\u7247_39"
+    21300080: "Doodle Jump- game-\u74E6\u7247_40"
+    21300082: "Doodle Jump- game-\u74E6\u7247_41"
+    21300084: "Doodle Jump- game-\u74E6\u7247_42"
+    21300086: "Doodle Jump- game-\u74E6\u7247_43"
+    21300088: "Doodle Jump- game-\u74E6\u7247_44"
+    21300090: "Doodle Jump- game-\u74E6\u7247_45"
+    21300092: "Doodle Jump- game-\u74E6\u7247_46"
+    21300094: "Doodle Jump- game-\u74E6\u7247_47"
+    21300096: "Doodle Jump- game-\u74E6\u7247_48"
+    21300098: "Doodle Jump- game-\u74E6\u7247_49"
+    21300100: "Doodle Jump- game-\u74E6\u7247_50"
+    21300102: "Doodle Jump- game-\u74E6\u7247_51"
+    21300104: "Doodle Jump- game-\u74E6\u7247_52"
+    21300106: "Doodle Jump- game-\u74E6\u7247_53"
+    21300108: "Doodle Jump- game-\u74E6\u7247_54"
+    21300110: "Doodle Jump- game-\u74E6\u7247_55"
+    21300112: "Doodle Jump- game-\u74E6\u7247_56"
+    21300114: "Doodle Jump- game-\u74E6\u7247_57"
+    21300116: "Doodle Jump- game-\u74E6\u7247_58"
+    21300118: "Doodle Jump- game-\u74E6\u7247_59"
+    21300120: "Doodle Jump- game-\u74E6\u7247_60"
+    21300122: "Doodle Jump- game-\u74E6\u7247_61"
+    21300124: "Doodle Jump- game-\u74E6\u7247_62"
+    21300126: "Doodle Jump- game-\u74E6\u7247_63"
+    21300128: "Doodle Jump- game-\u74E6\u7247_64"
+    21300130: "Doodle Jump- game-\u74E6\u7247_65"
+    21300132: "Doodle Jump- game-\u74E6\u7247_66"
+    21300134: "Doodle Jump- game-\u74E6\u7247_67"
+    21300136: "Doodle Jump- game-\u74E6\u7247_68"
+    21300138: "Doodle Jump- game-\u74E6\u7247_69"
+    21300140: "Doodle Jump- game-\u74E6\u7247_70"
+    21300142: "Doodle Jump- game-\u74E6\u7247_71"
+    21300144: "Doodle Jump- game-\u74E6\u7247_72"
+    21300146: "Doodle Jump- game-\u74E6\u7247_73"
+    21300148: "Doodle Jump- game-\u74E6\u7247_74"
+    21300150: "Doodle Jump- game-\u74E6\u7247_75"
+    21300152: "Doodle Jump- game-\u74E6\u7247_76"
+    21300154: "Doodle Jump- game-\u74E6\u7247_77"
+    21300156: "Doodle Jump- game-\u74E6\u7247_78"
+    21300158: "Doodle Jump- game-\u74E6\u7247_79"
+    21300160: "Doodle Jump- game-\u74E6\u7247_80"
+    21300162: "Doodle Jump- game-\u74E6\u7247_81"
+    21300164: "Doodle Jump- game-\u74E6\u7247_82"
+    21300166: "Doodle Jump- game-\u74E6\u7247_83"
+    21300168: "Doodle Jump- game-\u74E6\u7247_84"
+    21300170: "Doodle Jump- game-\u74E6\u7247_85"
+    21300172: "Doodle Jump- game-\u74E6\u7247_86"
+    21300174: "Doodle Jump- game-\u74E6\u7247_87"
+    21300176: "Doodle Jump- game-\u74E6\u7247_88"
+    21300178: "Doodle Jump- game-\u74E6\u7247_89"
+    21300180: "Doodle Jump- game-\u74E6\u7247_90"
+    21300182: "Doodle Jump- game-\u74E6\u7247_91"
+    21300184: "Doodle Jump- game-\u74E6\u7247_92"
+    21300186: "Doodle Jump- game-\u74E6\u7247_93"
+    21300188: "Doodle Jump- game-\u74E6\u7247_94"
+    21300190: "Doodle Jump- game-\u74E6\u7247_95"
+    21300192: "Doodle Jump- game-\u74E6\u7247_96"
+    21300194: "Doodle Jump- game-\u74E6\u7247_97"
+    21300196: "Doodle Jump- game-\u74E6\u7247_98"
+    21300198: "Doodle Jump- game-\u74E6\u7247_99"
+    21300200: "Doodle Jump- game-\u74E6\u7247_100"
+    21300202: "Doodle Jump- game-\u74E6\u7247_101"
+    21300204: "Doodle Jump- game-\u74E6\u7247_102"
+    21300206: "Doodle Jump- game-\u74E6\u7247_103"
+    21300208: "Doodle Jump- game-\u74E6\u7247_104"
+    21300210: "Doodle Jump- game-\u74E6\u7247_105"
+    21300212: "Doodle Jump- game-\u74E6\u7247_106"
+    21300214: "Doodle Jump- game-\u74E6\u7247_107"
+    21300216: "Doodle Jump- game-\u74E6\u7247_108"
+    21300218: "Doodle Jump- game-\u74E6\u7247_109"
+    21300220: "Doodle Jump- game-\u74E6\u7247_110"
+    21300222: "Doodle Jump- game-\u74E6\u7247_111"
+    21300224: "Doodle Jump- game-\u74E6\u7247_112"
+    21300226: "Doodle Jump- game-\u74E6\u7247_113"
+    21300228: "Doodle Jump- game-\u74E6\u7247_114"
+    21300230: "Doodle Jump- game-\u74E6\u7247_115"
+    21300232: "Doodle Jump- game-\u74E6\u7247_116"
+    21300234: "Doodle Jump- game-\u74E6\u7247_117"
+    21300236: "Doodle Jump- game-\u74E6\u7247_118"
+    21300238: "Doodle Jump- game-\u74E6\u7247_119"
+    21300240: "Doodle Jump- game-\u74E6\u7247_120"
+    21300242: "Doodle Jump- game-\u74E6\u7247_121"
+    21300244: "Doodle Jump- game-\u74E6\u7247_122"
+    21300246: "Doodle Jump- game-\u74E6\u7247_123"
+    21300248: "Doodle Jump- game-\u74E6\u7247_124"
+    21300250: "Doodle Jump- game-\u74E6\u7247_125"
+    21300252: "Doodle Jump- game-\u74E6\u7247_126"
+    21300254: "Doodle Jump- game-\u74E6\u7247_127"
+    21300256: "Doodle Jump- game-\u74E6\u7247_128"
+    21300258: "Doodle Jump- game-\u74E6\u7247_129"
+    21300260: "Doodle Jump- game-\u74E6\u7247_130"
+    21300262: "Doodle Jump- game-\u74E6\u7247_131"
+    21300264: "Doodle Jump- game-\u74E6\u7247_132"
+    21300266: "Doodle Jump- game-\u74E6\u7247_133"
+    21300268: "Doodle Jump- game-\u74E6\u7247_134"
+    21300270: "Doodle Jump- game-\u74E6\u7247_135"
+    21300272: "Doodle Jump- game-\u74E6\u7247_136"
+    21300274: "Doodle Jump- game-\u74E6\u7247_137"
+    21300276: "Doodle Jump- game-\u74E6\u7247_138"
+    21300278: "Doodle Jump- game-\u74E6\u7247_139"
+    21300280: "Doodle Jump- game-\u74E6\u7247_140"
+    21300282: "Doodle Jump- game-\u74E6\u7247_141"
+    21300284: "Doodle Jump- game-\u74E6\u7247_142"
+    21300286: "Doodle Jump- game-\u74E6\u7247_143"
+    21300288: "Doodle Jump- game-\u74E6\u7247_144"
+    21300290: "Doodle Jump- game-\u74E6\u7247_145"
+    21300292: "Doodle Jump- game-\u74E6\u7247_146"
+    21300294: "Doodle Jump- game-\u74E6\u7247_147"
+    21300296: "Doodle Jump- game-\u74E6\u7247_148"
+    21300298: "Doodle Jump- game-\u74E6\u7247_149"
+    21300300: "Doodle Jump- game-\u74E6\u7247_150"
+    21300302: "Doodle Jump- game-\u74E6\u7247_151"
+    21300304: "Doodle Jump- game-\u74E6\u7247_152"
+    21300306: "Doodle Jump- game-\u74E6\u7247_153"
+    21300308: "Doodle Jump- game-\u74E6\u7247_154"
+    21300310: "Doodle Jump- game-\u74E6\u7247_155"
+    21300312: "Doodle Jump- game-\u74E6\u7247_156"
+    21300314: "Doodle Jump- game-\u74E6\u7247_157"
+    21300316: "Doodle Jump- game-\u74E6\u7247_158"
+    21300318: "Doodle Jump- game-\u74E6\u7247_159"
+    21300320: "Doodle Jump- game-\u74E6\u7247_160"
+    21300322: "Doodle Jump- game-\u74E6\u7247_161"
+    21300324: "Doodle Jump- game-\u74E6\u7247_162"
+    21300326: "Doodle Jump- game-\u74E6\u7247_163"
+    21300328: "Doodle Jump- game-\u74E6\u7247_164"
+    21300330: "Doodle Jump- game-\u74E6\u7247_165"
+    21300332: "Doodle Jump- game-\u74E6\u7247_166"
+    21300334: "Doodle Jump- game-\u74E6\u7247_167"
+    21300336: "Doodle Jump- game-\u74E6\u7247_168"
+    21300338: "Doodle Jump- game-\u74E6\u7247_169"
+    21300340: "Doodle Jump- game-\u74E6\u7247_170"
+    21300342: "Doodle Jump- game-\u74E6\u7247_171"
+    21300344: "Doodle Jump- game-\u74E6\u7247_172"
+    21300346: "Doodle Jump- game-\u74E6\u7247_173"
+    21300348: "Doodle Jump- game-\u74E6\u7247_174"
+    21300350: "Doodle Jump- game-\u74E6\u7247_175"
+    21300352: "Doodle Jump- game-\u74E6\u7247_176"
+    21300354: "Doodle Jump- game-\u74E6\u7247_177"
+    21300356: "Doodle Jump- game-\u74E6\u7247_178"
+    21300358: "Doodle Jump- game-\u74E6\u7247_179"
+    21300360: "Doodle Jump- game-\u74E6\u7247_180"
+    21300362: "Doodle Jump- game-\u74E6\u7247_181"
+    21300364: "Doodle Jump- game-\u74E6\u7247_182"
+    21300366: "Doodle Jump- game-\u74E6\u7247_183"
+    21300368: "Doodle Jump- game-\u74E6\u7247_184"
+    21300370: "Doodle Jump- game-\u74E6\u7247_185"
+    21300372: "Doodle Jump- game-\u74E6\u7247_186"
+    21300374: "Doodle Jump- game-\u74E6\u7247_187"
+    21300376: "Doodle Jump- game-\u74E6\u7247_188"
+    21300378: "Doodle Jump- game-\u74E6\u7247_189"
+    21300380: "Doodle Jump- game-\u74E6\u7247_190"
+    21300382: "Doodle Jump- game-\u74E6\u7247_191"
+    21300384: "Doodle Jump- game-\u74E6\u7247_192"
+    21300386: "Doodle Jump- game-\u74E6\u7247_193"
+    21300388: "Doodle Jump- game-\u74E6\u7247_194"
+    21300390: "Doodle Jump- game-\u74E6\u7247_195"
+    21300392: "Doodle Jump- game-\u74E6\u7247_196"
+    21300394: "Doodle Jump- game-\u74E6\u7247_197"
+    21300396: "Doodle Jump- game-\u74E6\u7247_198"
+    21300398: "Doodle Jump- game-\u74E6\u7247_199"
+    21300400: "Doodle Jump- game-\u74E6\u7247_200"
+    21300402: "Doodle Jump- game-\u74E6\u7247_201"
+    21300404: "Doodle Jump- game-\u74E6\u7247_202"
+    21300406: "Doodle Jump- game-\u74E6\u7247_203"
+    21300408: "Doodle Jump- game-\u74E6\u7247_204"
+    21300410: "Doodle Jump- game-\u74E6\u7247_205"
+    21300412: "Doodle Jump- game-\u74E6\u7247_206"
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 58
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26264d555f87e2f48841444476d7d3b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_1"
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 420
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca4dacb21896b04d8415cdbcc304afd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_2"
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 464
+        width: 80
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a8d6862603e1b409ecbf6c5af41df9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_3"
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 464
+        width: 80
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4c3497e1eeef9419fbd84c7a595343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_4"
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 464
+        width: 79
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ff204b33ac8b64d9c6b7c1e0c27c5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_5"
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 464
+        width: 79
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e43510c74c11f64ba3d88e8286c4dd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_6"
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 466
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379eabd1fca993f4abf060bb8a92d420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_7"
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 477
+        width: 94
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1faba7fc930e2a74f9651035613d9536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_8"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 478
+        width: 58
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45a7b7ccf00aaf45915ab4e799a01e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_9"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 58
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc25bf23f6c6f274da78e71d6dd3b3b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_10"
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 395
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f9fc492109dc24fa322c8ae465f18b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_11"
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 437
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83a477a7a803b8479d2095fb787a0c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_12"
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 432
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0278dddb78292d042bab1a497a5d073b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_13"
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 387
+        width: 94
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a464181b6ddd2b42a599056e7a9fa57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_14"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 442
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97208d65d581450419260aa4ede916c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_15"
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 445
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b095b5bc78aafe42ae07bd31535b4ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_16"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 61
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6cae4e2e33c3c4b9e7a7fc22696cf0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_17"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 422
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1804b323d9829c6419da731fffc1a1c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_18"
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 422
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c96672de442a343b2f3b9b363b258b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_19"
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 422
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae76349be79e707478439ca52a28ad85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_20"
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 372
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811a432b4bd053d499195cef2faa7a01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_21"
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 422
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac165ed2ad3c63d4889cdf021da9b666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_22"
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 421
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e888f0e0ba75d1648b3463f5eddf183f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_23"
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 307
+        width: 83
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d76fccc0ae9ba4b94cbb3cf9fb83fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_24"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 62
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d47c0c6a9c839d49ba510761caa6348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_25"
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 328
+        width: 65
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96585110dab21114bb118fc98fbbcd50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_26"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 400
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12db39e574a003348aa54d897d304e8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_27"
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 400
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af86e943072ad244967e8e902395db6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_28"
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 401
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2027543af735a54292c05d1a8e4098e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_29"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 367
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9205bf3826f12a04787eb908642392b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_30"
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 372
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083403e34a618e44bbe1a14701405ccc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_31"
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 372
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2aeaa51e1079a4785d3708eebc05c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_32"
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 373
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9e743accc9b76449c6d92c6caf6b43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_33"
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 372
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebebb32598952444c900ee47835057d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_34"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 372
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b73c5f961aad24fb610b761d01ddef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_35"
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 372
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd61153f56829ea428cfa5a1be61d1c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_36"
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 372
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb632bd32009b1f4db38840533d441fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_37"
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 372
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63c3077e7259fc4d822d876fcf1c82b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_38"
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 372
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ebfc143580c7d4dace8dd6ac2308dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_39"
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 372
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5679022172800ba4f99a4740f7e7f2e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_40"
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 372
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541b59ed6cf3d2b47916b32b02057a89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_41"
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 372
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55d85232dfae89409ddae5badf3839a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_42"
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 372
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93a994413e5a4e49aac179c0c734306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_43"
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 367
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1444258def09e4b9fe80e537e34698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_44"
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 369
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77514f3e21278d345ba6f39b6d8c6975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_45"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 368
+        width: 58
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17aa79bcfc2e844a8e7bd87ec136bf5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_46"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 330
+        width: 61
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbb23575681af142b99a058d109c5ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_48"
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 346
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b7baf8a400a7341b83c99e1c486190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_49"
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 345
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbcd7cd97038604ab9ac7d4dbcd3658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_50"
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 345
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35a42845ac1df849b3d17e5c22ac065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_51"
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 344
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2620e9540c220ed4f91f57e0c0be0e12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_52"
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 345
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6924527839ee16b4cb16dfcdffbcaa43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_53"
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 346
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f560b456f45cb44be9a14ede3918f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_54"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 345
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c431ea25d1321c14ab9692ce5cd326bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_55"
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 344
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6c8d3c496b70e468a894cdb757b2e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_56"
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 345
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8600da40d10df834aa10817adc9aa062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_57"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 345
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abcfe47b01fb6c47b2735f17eff224e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_58"
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 345
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4e7186adc69a44293106c8c071480d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_59"
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 345
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dcc7e926816354485818b17ad12b0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_60"
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 345
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51bc4489c4a73e409aacc3eae33e045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_61"
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 345
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab72e42539e35441889d475189688ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_62"
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 346
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329c03e8eab458945af84a026e670f38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_63"
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 345
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4266d69923279448b0de3fd4081dad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_64"
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 345
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd1be22a0b764c4fa55c38abd74f71b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_65"
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 345
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60929315c0a0574469086524fbcea15e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_66"
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 345
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535ed72eea43cfe45bd4c83c063e13c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_67"
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 345
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abae94a7641483418eba97181f8a549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_68"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 346
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d5561d2de78d54ab7c165cd6f83580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_69"
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 350
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075edf567c0a6d44ea81b39a287081ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_70"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 323
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25aa4308e23076478eda669eefd1dd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_71"
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 322
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c4733ee5ce0a24f94ba407ac8c6047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_72"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 325
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd25e0d6daf58c439c5b6b0b246b024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_73"
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 326
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7b8321097ae7943b35d3df9e8dfbe1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_74"
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 328
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4414a371cbfdd34d92062127de7b29a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_75"
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 293
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91a535bb82c27e4bab2edcb2a2d688d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_76"
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 332
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22893920f74bc4b43a8b1ed6383f1064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_77"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 313
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0485fb9189adfc4fb52027bb2bc9738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_78"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 275
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e9c5cbff41da74c9a26c7acf8ad6b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_79"
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 275
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499e82a7937b86f49a6db39fa5e7e272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_80"
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 308
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3212f3234969c204f96eedaed82d51be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_81"
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 317
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56540778928add143806cd21f991b85a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_82"
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 317
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5bbc6aab670174dbdc272506cd95c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_83"
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 313
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0d7fdf283c825449767de1fc4048e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_84"
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 320
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625cf3a2878f0494ca6456568a666b72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_85"
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 321
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37844399f6e840e47aaeae9fd5841b2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_86"
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 324
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ec1432ea5861347a568d3ef3e0cbdd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_87"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 295
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de56efb849cb0e345bb4cc7d79a2d2bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_88"
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 248
+        width: 82
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa9ef9cf0bbcc44da39663ca3d9553c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_89"
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 291
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a57c63bd2520a54ebc6bd5a209c6d7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_90"
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 273
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05982a75af3ba6d4f980e81c7a9ad28b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_91"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 291
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcd45fd87f0ae746997cd94276290ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_92"
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 291
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3fae4dbacf2eb4681c1fa335ab10a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_93"
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 291
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c96d4db716c0ad429d560b6913be8ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_94"
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 286
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0461333cf7824b4483306bda064b551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_95"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 270
+        width: 78
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185f171173809f04ebd1dc4b97c5b9b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_96"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 277
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2a69be4ed2c7c4dbaab98dd4f0fe7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_97"
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 273
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61676407c33c73438bd290427ac5543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_98"
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 273
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9daedf11e167b4d80997bb5ad5ec9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_99"
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 273
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f1bc93c7269fb438b3d6847db338c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_100"
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 285
+        width: 54
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630670587ef827b49b9df936b782f3f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_101"
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 279
+        width: 54
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3066e481403673a4b9bfaf27fb5ebc71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_102"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 259
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a2a45c0b34eb84bb74f08701555279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_103"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 219
+        width: 82
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c288c4757c3b643bc4026950c78f20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_104"
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 255
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27f18046a5f16f4795d27d37e6f1231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_105"
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 256
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e59c3b8bdd84d44fa1735bf71cdaded
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_106"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 241
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0eb63a6dcf7d7346b3abd350e04ab86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_107"
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 211
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64f721721f428f45b764887508dc197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_108"
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 210
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b56fdc3a6d66304393aa3b3c036d853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_109"
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 172
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2441c4676c8b3b342b846665053d3450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_110"
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 168
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03dab8686f431864fa59a803e5d02791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_111"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 59
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5987914fe5576e6499b5d520a2f98a57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_112"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 211
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5c1a749610641498e2f917f9f822fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_113"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 62
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f68baa53a654094da1ebf56fc679c0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_114"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 92
+        width: 103
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab8b03767fe4d34c90a8acf6a5d128e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_115"
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 199
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498d674361e374e48bf52294c611ca51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_116"
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 171
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98c65415fdc978479cb5516be294b09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_117"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091b80f8ec08760499afcaad12919959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_118"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 183
+        width: 58
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f99e0dda56dfc340bea889eeb57760a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_119"
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 171
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1f3b86e22ba2841901cdc29d9d8bec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_120"
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 108
+        width: 102
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc9b538b475feb43bdc896ccd0281aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_121"
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 88
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e3c2af6df3e5e49aa885775ff2423a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_122"
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 0
+        width: 320
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abccec4683447564abf6ec3307f78b06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_123"
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 144
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f7b9f0e24c3bf4e8da76f861005399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_124"
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 144
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a291358ea870db408913e08fc29255d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_125"
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 144
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61d0786d89a9604489a5e3d4c58f122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_126"
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 145
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdd618474b13bb49b81be4e0c14e819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_127"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 150
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71582d29706982418d1feff1c4fd37f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_128"
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 144
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3112ceff7529e429559fc8eeb497d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_129"
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 158
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae770eaa341bd00448d7ed09fa9a1013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_130"
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 146
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee68e719030c78499eb7145f50e5bee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_131"
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 146
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2dd312913c40594db9b1acad3277109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_132"
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 146
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292776c2c3d05b14c989c16f74d06b30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_133"
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 146
+        width: 4
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ce5cb3691c7474492803c2f78caa94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_134"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 99
+        width: 82
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08b24f3282e55f439cf023a889ab6aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_135"
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 145
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f12129fe7313754b85fd8f48e4053d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_136"
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 145
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a839a7cd635ce940976fbc166b9bcd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_137"
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 146
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75b244a4ad800d45920d04edef153dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_138"
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 146
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286789970e42b6c4eaa4c81bb52a58cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_139"
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 146
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb9343f95d53be469bbd6392d527538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_140"
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 109
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2567e4ac08f1d49942280738b7d36a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_141"
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 116
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b06192497c73f42bade6c5c4b3ed28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_142"
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 111
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fad0a785d67a524db6ceefefa45f135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_143"
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 118
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c8d97fe460718448da1d471309c774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_144"
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 119
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d249f766a3ed01c42845657660ace11d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_145"
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 120
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ba3a88e8c88b4489c2b3d6979a7f63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_146"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 122
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7801527685be9418fb01c50e02217d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_147"
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 122
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2036398ea632cd42820e25edef33618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_148"
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 123
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6764074e5f21f744b4cbd3ed7663e48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_149"
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 123
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1372efe8006165c4585b2d26733f6a08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_150"
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 123
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb6b1a2008fe9d4d9f1ce1b401a055a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_151"
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 125
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73be15b5641d2f45a31175c26d800df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_152"
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 116
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f7f2ef8d971d14887e6bbc5745e54c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_153"
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 116
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4649bf616b64748ae7d7c9f389fdd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_154"
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 74
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1d51ff2668d3c4d88e5011e479d295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_155"
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 93
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f83134a939a7f14eac78819da4a308a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_156"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 60
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e615f68a1bcf245bed1ffcad61b567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_157"
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 66
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3482694e3cf25574aad5088762b85aeb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_158"
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 4
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886f47fa32f2ee043a9dcec46560dda3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_159"
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 69
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295b160f69443a3439a5c5ee7f5b24b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_160"
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 70
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef69fc30a96c2f4d8ee6415ebac4634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_161"
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 71
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ed1c6dcd444dd499f7a147b49fdf74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_162"
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 66
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bff8730375606d41baa5e3ddcc04c88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_163"
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 74
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee434b2cf215074c87341113537b95b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_164"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ad814633c342f4eb01ec6e69e3af81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_165"
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 77
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044f73e981e5e5d40af91c1aadfae60d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_166"
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 78
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2683b3603d5f6bf46b2415d9de986561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_167"
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 76
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c47133c51d78540bc4c1756be3e4b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_168"
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 75
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c560336ac615dfb458577b54755bd16d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_169"
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 78
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7119e80c51999b44bc017714ff4e8d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_170"
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 0
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c9f50db07c9834fafed16574ed7706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_171"
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 55
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b1aea1d918a0a4a867464b61cd1902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_172"
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 62
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1779d0e4c41a1ec4c864f35839927ea4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_173"
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 65
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c301d2dad70069147a39e3f349a127d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_174"
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 66
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c227e9d09fba1a44380f0580ff7ae667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_175"
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 59
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d55dd085e06ebf40b19b9124979d502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_176"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 30
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcfb121222483447b27d0ad398f723d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_177"
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 32
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da4a481136dabc45b63677ea22513b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_178"
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 33
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a76e83552d930847aba08d50965a3fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_179"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 39
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b010c01111f6cf446a9af11f229c8dda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_180"
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 40
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdd60bfbbcea82408d2a06ca8eda7ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_181"
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 40
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3974a1580f04e4687052aea8754b7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_182"
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 42
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c782a2acdbad11e4da1b50ddf97c1b19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_183"
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 44
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dead05aaeb55d94d9d840b57d49e006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_184"
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 44
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5e12ee0deba084e9262f67d3a57e3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_185"
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 46
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2da21bae3e0cc644aae2e4b0f373ec8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_186"
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 24
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634d7cfff9081cd4f8e6e29017a96c5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_187"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 31
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af380c7ff4b7845438c34387dc3d4c0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_188"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 34
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521161dc9f37e1242bc7e5e1c0cff874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_189"
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 35
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f8e7acc657be54a8e525eb183b9e51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_190"
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 36
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9e8493da7f0d84f9fa84aab5b1096d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_191"
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 37
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc28cbc5750cb143bc8226b2e84dd8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_192"
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 29
+        width: 72
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913094d906be62e418f1f5cdf56403a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_193"
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 33
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c70d31bafd8a64db14e9be49bede8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_194"
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 4
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de74c2be97424a8408bf7c43e77b90ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_195"
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 5
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf8a7f1bffada94d852d9c6b863edd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_196"
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 9
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57128d73aedf35a4191775421cb81bc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_197"
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 11
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e960b678bebdb42811b33b387372a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_198"
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 13
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ae548df2b809e4a8d99ad3236c2af5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_199"
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 14
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dfa800ce2847a419c4821c303e7f8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_200"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 9
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1b3f952f8517e4b9e5ee7db76bb494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_201"
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 16
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf9f9b38f81f0a4fab972ec783c87db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_202"
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 17
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee655d926927df64d80cf4e931905f2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_203"
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 15
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592612529da54d84fa2874efd5f9b317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_204"
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 3
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9de62b20eadb3d4e9cc2bdd948324f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_205"
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a226c5be91532549808f676de4998eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- game-\u74E6\u7247_206"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 419
+        width: 79
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2700b7573c73274cadb6b3c74cace64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c9e6277806f13e2469799df6e57dfeb7
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

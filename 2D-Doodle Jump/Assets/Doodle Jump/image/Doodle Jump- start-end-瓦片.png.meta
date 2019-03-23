@@ -1,0 +1,1212 @@
+fileFormatVersion: 2
+guid: 31783540a8f7a054f965002c3838603c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Doodle Jump- start-end-\u74E6\u7247_0"
+    21300002: "Doodle Jump- start-end-\u74E6\u7247_1"
+    21300004: "Doodle Jump- start-end-\u74E6\u7247_2"
+    21300006: "Doodle Jump- start-end-\u74E6\u7247_3"
+    21300008: "Doodle Jump- start-end-\u74E6\u7247_4"
+    21300010: "Doodle Jump- start-end-\u74E6\u7247_5"
+    21300012: "Doodle Jump- start-end-\u74E6\u7247_6"
+    21300014: "Doodle Jump- start-end-\u74E6\u7247_7"
+    21300016: "Doodle Jump- start-end-\u74E6\u7247_8"
+    21300018: "Doodle Jump- start-end-\u74E6\u7247_9"
+    21300020: "Doodle Jump- start-end-\u74E6\u7247_10"
+    21300022: "Doodle Jump- start-end-\u74E6\u7247_11"
+    21300024: "Doodle Jump- start-end-\u74E6\u7247_12"
+    21300026: "Doodle Jump- start-end-\u74E6\u7247_13"
+    21300028: "Doodle Jump- start-end-\u74E6\u7247_14"
+    21300030: "Doodle Jump- start-end-\u74E6\u7247_15"
+    21300032: "Doodle Jump- start-end-\u74E6\u7247_16"
+    21300034: "Doodle Jump- start-end-\u74E6\u7247_17"
+    21300036: "Doodle Jump- start-end-\u74E6\u7247_18"
+    21300038: "Doodle Jump- start-end-\u74E6\u7247_19"
+    21300040: "Doodle Jump- start-end-\u74E6\u7247_20"
+    21300042: "Doodle Jump- start-end-\u74E6\u7247_21"
+    21300044: "Doodle Jump- start-end-\u74E6\u7247_22"
+    21300046: "Doodle Jump- start-end-\u74E6\u7247_23"
+    21300048: "Doodle Jump- start-end-\u74E6\u7247_24"
+    21300050: "Doodle Jump- start-end-\u74E6\u7247_25"
+    21300052: "Doodle Jump- start-end-\u74E6\u7247_26"
+    21300054: "Doodle Jump- start-end-\u74E6\u7247_27"
+    21300056: "Doodle Jump- start-end-\u74E6\u7247_28"
+    21300058: "Doodle Jump- start-end-\u74E6\u7247_29"
+    21300060: "Doodle Jump- start-end-\u74E6\u7247_30"
+    21300062: "Doodle Jump- start-end-\u74E6\u7247_31"
+    21300064: "Doodle Jump- start-end-\u74E6\u7247_32"
+    21300066: "Doodle Jump- start-end-\u74E6\u7247_33"
+    21300068: "Doodle Jump- start-end-\u74E6\u7247_34"
+    21300070: "Doodle Jump- start-end-\u74E6\u7247_35"
+    21300072: "Doodle Jump- start-end-\u74E6\u7247_36"
+    21300074: "Doodle Jump- start-end-\u74E6\u7247_37"
+    21300076: "Doodle Jump- start-end-\u74E6\u7247_38"
+    21300078: "Doodle Jump- start-end-\u74E6\u7247_39"
+    21300080: "Doodle Jump- start-end-\u74E6\u7247_40"
+    21300082: "Doodle Jump- start-end-\u74E6\u7247_41"
+    21300084: "Doodle Jump- start-end-\u74E6\u7247_42"
+    21300086: "Doodle Jump- start-end-\u74E6\u7247_43"
+    21300088: "Doodle Jump- start-end-\u74E6\u7247_44"
+    21300090: "Doodle Jump- start-end-\u74E6\u7247_45"
+    21300092: "Doodle Jump- start-end-\u74E6\u7247_46"
+    21300094: "Doodle Jump- start-end-\u74E6\u7247_47"
+    21300096: "Doodle Jump- start-end-\u74E6\u7247_48"
+    21300098: "Doodle Jump- start-end-\u74E6\u7247_49"
+    21300100: "Doodle Jump- start-end-\u74E6\u7247_50"
+    21300102: "Doodle Jump- start-end-\u74E6\u7247_51"
+    21300104: "Doodle Jump- start-end-\u74E6\u7247_52"
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 79
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7faf93d154312e4abada416fcad3330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_1"
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 208
+        width: 79
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9637f8a68b1f35549b27ec8ed2decf83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_2"
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 221
+        width: 78
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3f67ecd23d4aa4b84ce994f9ded77c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_3"
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 88
+        width: 93
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb32d320dbcd3d644ae27391ff3be81f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_4"
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 216
+        width: 98
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bcc76161c8f8b4b8543c557da9eaa4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_5"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 164
+        width: 112
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e39df1b31aa0464a948d22900f708fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_6"
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 164
+        width: 113
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4731781b015052f449063a032001149d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_7"
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 179
+        width: 93
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67428b4ce09a4da418f850a9a53d0e58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_8"
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 123
+        width: 4
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249b323da78b1e44dad0f8571bff85be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_9"
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 113
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa632b6f4e9a8b4c9f7052db6ef449e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_10"
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 131
+        width: 78
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e05e1b4b7e8a3646b2883653154c1e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_11"
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 103
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7298d8f10e07f40a431d0957c7f92a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_12"
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 105
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af908ba615d1277469004cd8b91ea7a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_13"
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 107
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8210f28992ae98439dd82dc90e1a5e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_14"
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 110
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500e41e46a346334d966f286d85e180b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_15"
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 113
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd6ea51f6504094ba62dea3ef844b7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_16"
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 102
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ba0843a4ead304cb3f96885d1f102b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_17"
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 104
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a704601d7abbaa4b875b2fa4b46ba84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_18"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 75
+        width: 216
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e1883d40f1bea429c3db3af8c783a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_19"
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 90
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ec2510587d6234e8e3cc11859a9422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_20"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 94
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd3ea21a537b9e498bbdff3bf75cdf6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_21"
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 97
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff137220baa1d364a83ca2b472f1f783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_22"
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 97
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008cac114dcd0534d983dc925845131e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_23"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 94
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f0e47a272dd90459bfd8427d293754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_24"
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 74
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec439bb36fbe2b64e94c78647cc54dc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_25"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 320
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020b534b3283dbc4ba9b686e4608e741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_26"
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 66
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d92f356929cf84e8f05e1d339bf611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_27"
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 66
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f044feb7103087e4696fe92d36e18658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_28"
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 65
+        width: 115
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352d334546bcf6346889d27afd80acac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_29"
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 72
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd23b08fba27604aad2fc73e17f5014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_30"
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 73
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02add4e676a2e44ea9522ca1fb60bc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_31"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 72
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b55b0af812934e4b86e94531114b003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_32"
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 72
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cea7de587c3a2448ba0b3e8d0c9553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_33"
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 72
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0ef6aa6b155104186e02d75b24a441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_34"
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 72
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1a0d5cb269bf247b2736fdae620305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_35"
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 72
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a336c3f9288b6c4cb173a44f19013b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_36"
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 28
+        width: 164
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde7e06655ad1c74a8f5d712391bf1e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_37"
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 37
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc2b5c96640c69459547b7e7d2892aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_38"
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 37
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bed7c2528e8b142b2729b6e24c2ef9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_39"
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 37
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e2a962411ce814ea99e848d1e7cafb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_40"
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 37
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a03581f575aca438afae48f52c6cf0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_41"
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 31
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d853a8557ba3cb94389d521c66ef336a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_42"
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 37
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c979250067fcf6469a17ddbff012315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_43"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 37
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafbb17dd7053664d8874d90a9768782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_44"
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 36
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3edb4ec08ab9fa40aa4d344c1140765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_45"
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 37
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e27841e5d96724eb69eee4181ded5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_46"
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 37
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82a9ed7ca389ef44ac6190244b3802e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_47"
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 0
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce34006e02b534347af74cd9981b5b9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_48"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 6
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9816cc4fb186cff47aa972847b6e75dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_49"
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 6
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b12ac19a619a8b4c981b1ec6ce5986b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_50"
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 6
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0ddabc9cdb75842afb7a1f3b0c54a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_51"
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 6
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f74784fe85b4944a7967828079bc48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Doodle Jump- start-end-\u74E6\u7247_52"
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 6
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575838f4667420f458b249d943220d56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2f794607f4c3f9e449d66c51ec99f78e
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
